@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.web {
+    margin: 10px auto;
+    width: 1024px;
+}
+
+#logo {
+    float: left;
+    height: 125px;
+    margin-right: 10px;
+    text-shadow: 1  1  1  rgba{0,0,0,0,2};
+}
+
+#judul {
+    height: 115px;
+    margin: 10px auto -15px auto;
+    padding: 10 0 20 0;
+
+}
+
+nav {
+    clear: both;
+}
